@@ -45,5 +45,5 @@ end
 
 
 gem 'neo4j', '~> 7.0.5'
-#gem 'neo4j-rspec'
+gem 'neo4j-rspec'
 
